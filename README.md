@@ -5,7 +5,6 @@ Select Form
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Select a Form</title>
 </head>
 <body>
     <a href="https://forms.office.com/r/gum2DA1XDc"><button>Retail</button></a>
