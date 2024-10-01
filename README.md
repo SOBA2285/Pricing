@@ -1,5 +1,3 @@
-#Pricing Request Forms
-Select a Form
 <!DOCTYPE html>
 <html lang="en">
 <head>
